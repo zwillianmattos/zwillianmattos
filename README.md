@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi 👋, I'm Willian Mattos
 
-<!--
-**zwillianmattos/zwillianmattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web and Hybrid Mobile App
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/willianmattos/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Platforms
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=fcc624)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&color=2496ED)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat-square&logo=macos&color=8892BF)
+### Code
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
+![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat-square&logo=codeigniter&color=EF4223)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
+### Tools
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&color=336791&logoColor=2496ED)
+![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=e94840)
+### Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwillianmattos&langs_count=8&hide=html,blade,shell&layout=compact&theme=gruvbox)](https://github.com/zwillianmattos/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwillianmattos&theme=gruvbox)](https://github.com/zwillianmattos/github-readme-stats)
