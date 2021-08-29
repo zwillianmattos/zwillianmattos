@@ -24,4 +24,4 @@ Full Stack Web and Hybrid Mobile App
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&color=336791&logoColor=2496ED)
 ![](https://img.shields.io/badge/Tools-SQLServer-informational?style=flat-square&logo=microsoft-sql-server&color=CC2927&logoColor=e94840)
 ## ⚡ GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwillianmattos&langs_count=8&hide=html,blade,shell&layout=compact&theme=gruvbox)](https://github.com/zwillianmattos/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwillianmattos&theme=gruvbox)](https://github.com/zwillianmattos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zwillianmattos&langs_count=8&hide=html,blade,shell&layout=compact)](https://github.com/zwillianmattos/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwillianmattos)](https://github.com/zwillianmattos/github-readme-stats)
