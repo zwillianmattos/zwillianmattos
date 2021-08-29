@@ -15,6 +15,9 @@ Full Stack Web and Hybrid Mobile App
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
 ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat-square&logo=codeigniter&color=EF4223)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat-square&logo=node&color=0F0)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat-square&logo=dart&color=2496ED)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat-square&logo=flutter&color=2496ED)
 ### Tools
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat-square&logo=mysql&color=4479A1&logoColor=2496ED)
