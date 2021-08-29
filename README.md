@@ -9,7 +9,7 @@ Full Stack Web and Hybrid Mobile App
 ### Platforms
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&color=fcc624)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&color=2496ED)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat-square&logo=macos&color=8892BF)
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat-square&logo=macos&color=8892BF)
 ### Code
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&color=777bb4&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&color=FF2D20)
