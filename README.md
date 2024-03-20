@@ -22,6 +22,3 @@ Website: https://wanmind.com.br/
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-
-![github-user-contribution (1)](https://github.com/zwillianmattos/zwillianmattos/assets/23619514/53269743-79e9-46a1-923a-b6a38a1c62e4)
-
